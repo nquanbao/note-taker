@@ -30,6 +30,7 @@
 ## Usage
 
 ![Sreenshot of App](./img/Screenshot.png)
+[link to deployed heroku](https://rocky-escarpment-07620-cc0a26cc1da6.herokuapp.com/)
 
 ## License
 
